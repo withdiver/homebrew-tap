@@ -5,12 +5,12 @@ class Diver < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/withdiver/diver-cli/releases/download/v0.2.4/diver-0.2.4-aarch64-apple-darwin.tar.gz"
-      sha256 "a9597a0c929b66ed4b5a6c59b99b94701fae81276557ce8804858495f5951ce7"
+      url "https://github.com/withdiver/diver-cli/releases/download/v0.3.0/diver-0.3.0-aarch64-apple-darwin.tar.gz"
+      sha256 "202f3eb2781a6f16365bda3f6bb73d41dfc34034933bf1f902e26ed849c9e851"
     end
     on_intel do
-      url "https://github.com/withdiver/diver-cli/releases/download/v0.2.4/diver-0.2.4-x86_64-apple-darwin.tar.gz"
-      sha256 "4d5a96f629aae03ac36adf26769f93af0cc9141a3746215fc0f21092b9f6ceca"
+      url "https://github.com/withdiver/diver-cli/releases/download/v0.3.0/diver-0.3.0-x86_64-apple-darwin.tar.gz"
+      sha256 "d2216656f4d12ee9dd40a6a9d213e43d5b77a84a747363024a1f32690962c781"
     end
   end
 
